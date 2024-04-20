@@ -1,0 +1,13 @@
+{
+  "name": "shopee-cart",
+  "version": "0.0.1",
+  "description": "Este projeto é um simulador de carrinho de compras para uma loja virtual da Shopee. O sistema é desenvolvido em Node.js e apresenta uma estrutura modular que permite criar, adicionar, remover itens do carrinho e calcular o valor total do carrinho. Os serviços estão organizados em módulos separados para facilitar a manutenção e a expansão do código. Os usuários podem visualizar o conteúdo do carrinho, incluindo detalhes de cada item, quantidade, preço e subtotal, proporcionando uma experiência completa de gerenciamento de carrinho de compras.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Luis Moura",
+  "license": "ISC"
+}
