@@ -3,7 +3,7 @@
 
 ## 💻 Descrição Do Projeto
 
-Vamos criar a lógica por trás do carrinho de compras da shopee, onde o carrinho armazene itens e faça o cálculo total e de sub-itens automaticamente.
+Vamos criar a lógica por trás do carrinho de compras da shopee, onde o carrinho armazene itens e faça o cálculo total dos itens automaticamente.
 
 ## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
 
@@ -19,7 +19,7 @@ Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio 
 
   - Lógica de Programação | Intermediário
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+## 🛠️ Habilidades e Sub-habilidades necessárias
 
 - Modularização | Intermediária
 
